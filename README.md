@@ -102,5 +102,5 @@ npm run dev
 # Convention de commits :
 - https://www.conventionalcommits.org/en/v1.0.0/
 
-# 📄 Licence
-## MIT © Owarino777
+### 📄 Licence
+#### MIT © Owarino777
