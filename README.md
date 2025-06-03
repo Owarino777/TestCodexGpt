@@ -104,27 +104,3 @@ npm run dev
 
 # 📄 Licence
 ## MIT © Owarino777
-
----
-
-> **Étape suivante (rappel) :**
-> 
-> - **Prépare l’arborescence projet**  
->   → `pnpm create next-app@latest` avec TypeScript, Tailwind, App Router
-> 
-> - **Définis la config Supabase**  
->   → Crée projet Supabase, ajoute tables (User/Product/Order/…), exports `.env.example`
-> 
-> - **Wireframes et maquettes**  
->   → Pages clés (Home, Produit, Panier, Admin…), diagrammes navigation (draw.io, Figma…)
-> 
-> - **Diagrammes UML/ERD**  
->   → Schéma BDD, use cases principaux
-> 
-> - **Initialisation du design system**  
->   → Setup shadcn/ui, Tailwind, Framer Motion, thèmes
-> 
-> - **Plan d’itération / tâches**  
->   → Création d’issues GitHub par module
-
----
